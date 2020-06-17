@@ -1,0 +1,14 @@
+{
+  "name": "my_ripple_experiment",
+  "version": "0.0.1",
+  "license": "MIT",
+  "private": true,
+  "//": "UNLICENSEDDAX",
+  "dependencies": {
+    "core-js": "3",
+    "ripple-lib": "*"
+  },
+  "devDependencies": {
+    "eslint": "*"
+  }
+}
